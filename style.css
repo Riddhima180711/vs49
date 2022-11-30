@@ -1,0 +1,26 @@
+.heading{
+    font-family: 'Pattaya', sans-serif;
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-family: 'Pattaya', sans-serif;
+    font-size: 15px;
+    color:#1e96fc;
+}
+
+body{
+    background-size: cover;
+}
+
+.div_name{
+    float: center;
+}
+
+#name{
+    font-family: 'Pattaya', sans-serif;
+    font-size: 23px;
+    margin: 15px;
+}
